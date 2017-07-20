@@ -1,0 +1,447 @@
+﻿Log file open, 07/21/17 11:27:08
+LogInit:Display: Running engine for game: MyProject
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(733063148) SRandInit(733063148).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.083946
+LogPluginManager: Loaded Plugin Paper2D, From C:/apps/Epic Games/4.14/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From C:/apps/Epic Games/4.14/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From C:/apps/Epic Games/4.14/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From C:/apps/Epic Games/4.14/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From C:/apps/Epic Games/4.14/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From C:/apps/Epic Games/4.14/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From C:/apps/Epic Games/4.14/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From C:/apps/Epic Games/4.14/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From C:/apps/Epic Games/4.14/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From C:/apps/Epic Games/4.14/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From C:/apps/Epic Games/4.14/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From C:/apps/Epic Games/4.14/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From C:/apps/Epic Games/4.14/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin AudioCapture, From C:/apps/Epic Games/4.14/Engine/Plugins/Editor/AudioCapture/AudioCapture.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From C:/apps/Epic Games/4.14/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From C:/apps/Epic Games/4.14/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From C:/apps/Epic Games/4.14/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From C:/apps/Epic Games/4.14/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From C:/apps/Epic Games/4.14/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From C:/apps/Epic Games/4.14/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From C:/apps/Epic Games/4.14/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From C:/apps/Epic Games/4.14/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From C:/apps/Epic Games/4.14/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From C:/apps/Epic Games/4.14/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From C:/apps/Epic Games/4.14/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From C:/apps/Epic Games/4.14/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin OSVR, From C:/apps/Epic Games/4.14/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From C:/apps/Epic Games/4.14/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From C:/apps/Epic Games/4.14/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From C:/apps/Epic Games/4.14/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From C:/apps/Epic Games/4.14/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From C:/apps/Epic Games/4.14/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From C:/apps/Epic Games/4.14/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From C:/apps/Epic Games/4.14/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From C:/apps/Epic Games/4.14/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From C:/apps/Epic Games/4.14/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From C:/apps/Epic Games/4.14/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From C:/apps/Epic Games/4.14/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From C:/apps/Epic Games/4.14/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From C:/apps/Epic Games/4.14/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From C:/apps/Epic Games/4.14/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From C:/apps/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From C:/apps/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGameCircle, From C:/apps/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGameCircle/OnlineSubsystemGameCircle.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From C:/apps/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From C:/apps/Epic Games/4.14/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From C:/apps/Epic Games/4.14/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From C:/apps/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From C:/apps/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From C:/apps/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From C:/apps/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From C:/apps/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From C:/apps/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From C:/apps/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin MIDIDevice, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/MIDIDevice/MIDIDevice.uplugin
+LogPluginManager: Loaded Plugin MobilePatchingUtils, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/MobilePatchingUtils/MobilePatchingUtils.uplugin
+LogPluginManager: Loaded Plugin Ansel, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/Nvidia/Ansel/Ansel.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From C:/apps/Epic Games/4.14/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From C:/apps/Epic Games/4.14/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogPluginManager: Loaded Plugin EditorTests, From C:/apps/Epic Games/4.14/Engine/Plugins/Tests/EditorTests/EditorTests.uplugin
+LogPluginManager: Loaded Plugin FbxAutomationTestBuilder, From C:/apps/Epic Games/4.14/Engine/Plugins/Tests/FbxAutomationTestBuilder/FbxAutomationTestBuilder.uplugin
+LogPluginManager: Loaded Plugin FunctionalTestingEditor, From C:/apps/Epic Games/4.14/Engine/Plugins/Tests/FunctionalTestingEditor/FunctionalTestingEditor.uplugin
+LogPluginManager: Loaded Plugin RuntimeTests, From C:/apps/Epic Games/4.14/Engine/Plugins/Tests/RuntimeTests/RuntimeTests.uplugin
+LogPluginManager: Loaded Plugin ScreenshotTools, From C:/apps/Epic Games/4.14/Engine/Plugins/Tests/ScreenshotTools/ScreenshotTools.uplugin
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.14-CL-3249277
+LogInit: Engine Version: 4.14.3-3249277+++UE4+Release-4.14
+LogInit: Compatible Engine Version: 4.14.0-3195953+++UE4+Release-4.14
+LogInit: Net CL: 3195953
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 7
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 8
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 17
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 12
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 1
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Jan  6 2017 10:49:43
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.14
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: C:/apps/Epic Games/4.14/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.07.20-23.27.08:524][  0]LogInit: Selected Device Profile: [Windows]
+[2017.07.20-23.27.08:524][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.07.20-23.27.08:553][  0]LogInit: Computer: 1903C003
+[2017.07.20-23.27.08:553][  0]LogInit: User: josephnew6687
+[2017.07.20-23.27.08:553][  0]LogInit: CPU Page size=65536, Cores=4
+[2017.07.20-23.27.08:554][  0]LogInit: High frequency timer resolution =3.312841 MHz
+[2017.07.20-23.27.08:554][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2017.07.20-23.27.08:554][  0]LogMemory: Platform Memory Stats for Windows
+[2017.07.20-23.27.08:554][  0]LogMemory: Process Physical Memory: 265.59 MB used, 265.59 MB peak
+[2017.07.20-23.27.08:554][  0]LogMemory: Process Virtual Memory: 265.38 MB used, 265.38 MB peak
+[2017.07.20-23.27.08:554][  0]LogMemory: Physical Memory: 10078.78 MB used,  6222.33 MB free, 16301.11 MB total
+[2017.07.20-23.27.08:554][  0]LogMemory: Virtual Memory: 663.18 MB used,  6222.33 MB free, 8388608.00 MB total
+[2017.07.20-23.27.08:706][  0]LogTextLocalizationManager: No specific translations for ('en-NZ') exist, so ('en') translations will be used.
+[2017.07.20-23.27.11:661][  0]LogD3D11RHI: D3D11 adapters:
+[2017.07.20-23.27.11:697][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 570' (Feature Level 11_0)
+[2017.07.20-23.27.11:697][  0]LogD3D11RHI:       1233/0/2815 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2017.07.20-23.27.11:698][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.07.20-23.27.11:702][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.07.20-23.27.11:702][  0]LogD3D11RHI:     GPU DeviceId: 0x1081 (for the marketing name, search the web for "GPU Device Id")
+[2017.07.20-23.27.11:702][  0]LogWindows: EnumDisplayDevices:
+[2017.07.20-23.27.11:702][  0]LogWindows:    0. 'NVIDIA GeForce GTX 570' (P:1 D:1)
+[2017.07.20-23.27.11:702][  0]LogWindows:    1. 'NVIDIA GeForce GTX 570' (P:0 D:1)
+[2017.07.20-23.27.11:702][  0]LogWindows:    2. 'RDPDD Chained DD' (P:0 D:0)
+[2017.07.20-23.27.11:702][  0]LogWindows:    3. 'RDP Encoder Mirror Driver' (P:0 D:0)
+[2017.07.20-23.27.11:703][  0]LogWindows:    4. 'RDP Reflector Display Driver' (P:0 D:0)
+[2017.07.20-23.27.11:703][  0]LogWindows:    5. 'Mirage Driver' (P:0 D:0)
+[2017.07.20-23.27.11:703][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:2 
+[2017.07.20-23.27.11:703][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 570
+[2017.07.20-23.27.11:703][  0]LogD3D11RHI:   Driver Version: 364.72 (internal:10.18.13.6472, unified:364.72)
+[2017.07.20-23.27.11:703][  0]LogD3D11RHI:      Driver Date: 3-21-2016
+[2017.07.20-23.27.11:703][  0]LogRHI: Texture pool is 863 MB (70% of 1233 MB)
+[2017.07.20-23.27.11:711][  0]LogD3D11RHI:Warning: Timestamp queries are currently disabled on this hardware due to instability. Realtime GPU stats will not be available. You can override this behaviour by setting r.NVIDIATimestampWorkaround to 0
+[2017.07.20-23.27.11:711][  0]LogD3D11RHI: Async texture creation enabled
+[2017.07.20-23.27.11:725][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2017.07.20-23.27.11:725][  0]LogShaderCompilers: Guid format shader working directory is -4 characters bigger than the processId version (D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Intermediate/Shaders/WorkingDirectory/3164/).
+[2017.07.20-23.27.11:725][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'D:/Users/joseph.new6687/AppData/Local/Temp/UnrealShaderWorkingDir/F58475F5438727CFFAD5D88A9D981F40/'.
+[2017.07.20-23.27.11:725][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2017.07.20-23.27.14:251][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2017.07.20-23.27.14:357][  0]LogTemp:Display: Loaded TP MacClientTargetPlatform
+[2017.07.20-23.27.14:463][  0]LogTemp:Display: Loaded TP MacNoEditorTargetPlatform
+[2017.07.20-23.27.14:568][  0]LogTemp:Display: Loaded TP MacServerTargetPlatform
+[2017.07.20-23.27.14:702][  0]LogTemp:Display: Loaded TP MacTargetPlatform
+[2017.07.20-23.27.14:808][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2017.07.20-23.27.14:915][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.07.20-23.27.15:021][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2017.07.20-23.27.15:109][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2017.07.20-23.27.15:314][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2017.07.20-23.27.15:420][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2017.07.20-23.27.15:525][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2017.07.20-23.27.15:639][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2017.07.20-23.27.15:745][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2017.07.20-23.27.15:851][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2017.07.20-23.27.16:065][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2017.07.20-23.27.16:065][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.07.20-23.27.16:148][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2017.07.20-23.27.16:329][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2017.07.20-23.27.16:385][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2017.07.20-23.27.16:489][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2017.07.20-23.27.16:593][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.07.20-23.27.16:701][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2017.07.20-23.27.16:817][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2017.07.20-23.27.16:817][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2017.07.20-23.27.18:039][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2017.07.20-23.27.18:104][  0]LogDerivedDataCache: Loaded boot cache 0.07s 64MB D:/Users/joseph.new6687/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.07.20-23.27.18:104][  0]LogDerivedDataCache:Display: Loaded Boot cache: D:/Users/joseph.new6687/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc
+[2017.07.20-23.27.18:104][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.07.20-23.27.18:104][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.07.20-23.27.18:104][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.07.20-23.27.18:104][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.07.20-23.27.18:123][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.07.20-23.27.18:135][  0]LogDerivedDataCache: Using Local data cache path D:/Users/joseph.new6687/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.07.20-23.27.18:482][  0]LogInit: Selected Device Profile: [Windows]
+[2017.07.20-23.27.18:486][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.07.20-23.27.18:814][  0]LogMeshUtilities: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.07.20-23.27.18:899][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.07.20-23.27.18:987][  0]LogMeshUtilities: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.07.20-23.27.18:987][  0]LogMeshUtilities: No automatic skeletal mesh reduction module available
+[2017.07.20-23.27.18:987][  0]LogMeshUtilities: No automatic mesh merging module available
+[2017.07.20-23.27.19:773][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3195953, ProjectName: myproject, ProjectVersion: , EngineNetworkVersion: 2, GameNetworkVersion: 0, NetworkChecksum: 2754685603
+[2017.07.20-23.27.19:849][  0]LogAssetRegistry: FAssetRegistry took 0.0196 seconds to start up
+[2017.07.20-23.27.19:909][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 2 prioritized culture(s) in 0.019827 seconds
+[2017.07.20-23.27.19:915][  0]LogUObjectArray: 31946 objects as part of root set at end of initial load.
+[2017.07.20-23.27.19:915][  0]LogUObjectAllocator: 6935848 out of 0 bytes used by permanent object pool.
+[2017.07.20-23.27.19:915][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.07.20-23.27.20:034][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.07.20-23.27.22:254][  0]LogSlate: Using Freetype 2.6.0
+[2017.07.20-23.27.22:256][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.07.20-23.27.22:256][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.07.20-23.27.37:626][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.07.20-23.27.37:707][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.07.20-23.27.38:331][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.07.20-23.27.39:067][  0]SourceControl: Info Source control is disabled
+[2017.07.20-23.27.39:188][  0]SourceControl: Info Source control is disabled
+[2017.07.20-23.27.39:279][  0]SourceControl: Info Source control is disabled
+[2017.07.20-23.27.39:368][  0]SourceControl: Info Source control is disabled
+[2017.07.20-23.27.41:764][  0]LogEngine: Initializing Engine...
+[2017.07.20-23.27.41:764][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.07.20-23.27.42:147][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.07.20-23.27.42:159][  0]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.07.20-23.27.42:165][  0]LogInit: FAudioDevice initialized.
+[2017.07.20-23.27.42:212][  0]LogDerivedDataCache: Saved boot cache 0.05s 64MB D:/Users/joseph.new6687/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.07.20-23.27.42:222][  0]LogInit: Texture streaming: Enabled
+[2017.07.20-23.27.42:599][  0]LogInit: Transaction tracking system initialized
+[2017.07.20-23.27.43:482][  0]BlueprintLog: New page: Editor Load
+[2017.07.20-23.27.45:311][  0]LocalizationService: Info Localization service is disabled
+[2017.07.20-23.27.46:622][  0]LogConsoleResponse:Display: 
+[2017.07.20-23.27.46:821][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.07.20-23.27.46:821][  0]LogCook:Display: Mobile HDR setting 1
+[2017.07.20-23.27.47:770][  0]LogFileCache: Scanning file cache for directory 'D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Content/' took 0.01s
+[2017.07.20-23.27.48:691][  0]SourceControl: Info Source control is disabled
+[2017.07.20-23.27.48:691][  0]Cmd: MAP LOAD FILE="D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.07.20-23.27.48:692][  0]LightingResults: New page: Lighting Build
+[2017.07.20-23.27.48:774][  0]MapCheck: New page: Map Check
+[2017.07.20-23.27.48:774][  0]LightingResults: New page: Lighting Build
+[2017.07.20-23.27.49:267][  0]LogTexture:Display: Building textures: T_ML_Rubber_Blue_01_D (AutoDXT)
+[2017.07.20-23.27.49:416][  0]LogTexture:Display: Building textures: T_ML_Rubber_Blue_01_N (BC5)
+[2017.07.20-23.27.49:446][  0]LogTexture:Display: Building textures: T_ML_Aluminum01 (AutoDXT)
+[2017.07.20-23.27.49:564][  0]LogTexture:Display: Building textures: T_ML_Aluminum01_N (BC5)
+[2017.07.20-23.27.49:598][  0]LogTexture:Display: Building textures: UE4_Mannequin_MAT_MASKA (AutoDXT)
+[2017.07.20-23.27.49:830][  0]LogTexture:Display: Building textures: UE4_Mannequin__normals (BC5)
+[2017.07.20-23.27.50:250][  0]LogTexture:Display: Building textures: UE4_LOGO_CARD (AutoDXT)
+[2017.07.20-23.27.50:348][  0]LogTexture:Display: Building textures: HQ_Lightmap0_1 (AutoDXT)
+[2017.07.20-23.27.50:610][  0]LogTexture:Display: Building textures: HQ_Lightmap0_2 (AutoDXT)
+[2017.07.20-23.27.50:692][  0]LogTexture:Display: Building textures: HQ_Lightmap0_3 (AutoDXT)
+[2017.07.20-23.27.50:711][  0]LogTexture:Display: Building textures: LQ_Lightmap_0_1 (DXT1)
+[2017.07.20-23.27.50:807][  0]LogTexture:Display: Building textures: LQ_Lightmap_0_2 (DXT1)
+[2017.07.20-23.27.50:842][  0]LogTexture:Display: Building textures: LQ_Lightmap_0_3 (DXT1)
+[2017.07.20-23.27.50:854][  0]LogTexture:Display: Building textures: SkyOcclusion0_1 (AutoDXT)
+[2017.07.20-23.27.50:974][  0]LogTexture:Display: Building textures: SkyOcclusion0_2 (AutoDXT)
+[2017.07.20-23.27.51:007][  0]LogTexture:Display: Building textures: SkyOcclusion0_3 (AutoDXT)
+[2017.07.20-23.27.51:016][  0]LogTexture:Display: Building textures: ShadowMapTexture2D_0 (G8)
+[2017.07.20-23.27.51:098][  0]LogTexture:Display: Building textures: ShadowMapTexture2D_1 (G8)
+[2017.07.20-23.27.51:134][  0]LogTexture:Display: Building textures: UE4Man_Logo_N (BC5)
+[2017.07.20-23.27.51:297][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.07.20-23.27.51:384][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.07.20-23.27.51:388][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.07.20-23.27.51:525][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 136.594ms to complete.
+[2017.07.20-23.27.51:525][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 2.834
+[2017.07.20-23.27.51:993][  0]LogCollectionManager: Loaded 0 collections in 0.001425 seconds
+[2017.07.20-23.27.52:201][  0]LogFileCache: Scanning file cache for directory 'D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Saved/Collections/' took 0.01s
+[2017.07.20-23.27.52:201][  0]LogFileCache: Scanning file cache for directory 'D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Content/Developers/josephnew6687/Collections/' took 0.01s
+[2017.07.20-23.27.52:201][  0]LogFileCache: Scanning file cache for directory 'D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Content/Collections/' took 0.01s
+[2017.07.20-23.27.52:201][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2017.07.20-23.27.52:212][  0]LogContentBrowser: Native class hierarchy populated in 0.0097 seconds. Added 2190 classes and 428 folders.
+[2017.07.20-23.27.52:309][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.07.20-23.27.52:309][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.07.20-23.27.52:318][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0006 seconds. Added 13 classes and 0 folders.
+[2017.07.20-23.27.52:448][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2017.07.20-23.27.52:500][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2017.07.20-23.27.52:633][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2017.07.20-23.27.53:039][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2017.07.20-23.27.53:340][  0]LogTexture:Display: Building textures: Blueprint_64x (BGRA8)
+[2017.07.20-23.27.53:342][  0]LogTexture:Display: Building textures: icon_Editor_Preferences_General_40x (BGRA8)
+[2017.07.20-23.27.53:344][  0]LogTexture:Display: Building textures: Paper2DSprite_TutorialIcon (BGRA8)
+[2017.07.20-23.27.53:345][  0]LogTexture:Display: Building textures: icon_ShowSkeletalMeshes_40x (BGRA8)
+[2017.07.20-23.27.53:347][  0]LogTexture:Display: Building textures: Landscape (BGRA8)
+[2017.07.20-23.27.53:348][  0]LogTexture:Display: Building textures: Foliage (BGRA8)
+[2017.07.20-23.27.53:517][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2017.07.20-23.27.53:517][  0]LogLoad: (Engine Initialization) Total time: 48.50 seconds
+[2017.07.20-23.27.53:517][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.41 seconds
+[2017.07.20-23.27.53:517][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.07.20-23.27.53:517][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.07.20-23.27.53:526][  0]LogOcInput: OculusInput pre-init called
+[2017.07.20-23.27.53:738][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.07.20-23.27.53:764][  0]LogTexture:Display: Building textures: icon_tab_Levels_40x (BGRA8)
+[2017.07.20-23.27.53:924][  0]LogTexture:Display: Building textures: LevelGrid1DStripes (BGRA8)
+[2017.07.20-23.27.54:069][  0]LogRenderer: Reallocating scene render targets to support 1208x660 NumSamples 1 (Frame:2).
+[2017.07.20-23.27.54:495][  1]LogAssetRegistry: Asset discovery search completed in 34.6632 seconds
+[2017.07.20-23.27.54:495][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.07.20-23.27.54:495][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000026 seconds (updated 0 objects)
+[2017.07.20-23.29.36:758][924]LogSpawn:Warning: UWorld::DestroyActor: World has no context! World: Level1, Actor: /Game/Levels/Level1.Level1:PersistentLevel.ThirdPersonExampleMap_C_1
+[2017.07.20-23.29.36:866][924]LogAIModule: Creating AISystem for world Level1
+[2017.07.20-23.29.36:875][924]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1" FILE="D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Content/Levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.07.20-23.29.36:895][924]LogSpawn:Warning: UWorld::DestroyActor: World has no context! World: Level1, Actor: /Game/Levels/Level1.Level1:PersistentLevel.Level1_C_0
+[2017.07.20-23.29.37:002][924]LogSavePackage: Save=108.60ms
+[2017.07.20-23.29.37:002][924]LogSavePackage: Moving 'D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Saved/Level16B86E0C54A4FA85BBC6F9B87672677D2.tmp' to 'D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Content/Levels/Level1.umap'
+[2017.07.20-23.29.37:004][924]LogSavePackage:Display: Finished SavePackage D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Content/Levels/Level1.umap
+[2017.07.20-23.29.37:019][924]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1_BuiltData" FILE="D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Content/Levels/Level1_BuiltData.uasset" SILENT=true
+[2017.07.20-23.29.37:162][924]LogSavePackage: Save=141.15ms
+[2017.07.20-23.29.37:162][924]LogSavePackage: Moving 'D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Saved/Level1_BuiltData1461D775465B341CA3F1F0988FAAE402.tmp' to 'D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Content/Levels/Level1_BuiltData.uasset'
+[2017.07.20-23.29.37:162][924]LogSavePackage:Display: Finished SavePackage D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Content/Levels/Level1_BuiltData.uasset
+[2017.07.20-23.29.37:165][924]LogFileHelpers: Saving map 'Level1' took 1.034
+[2017.07.20-23.29.37:166][924]Cmd: MAP LOAD FILE="D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Content/Levels/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.07.20-23.29.37:181][924]LightingResults: New page: Lighting Build
+[2017.07.20-23.29.37:182][924]LoadErrors: New page: Loading map: Level1.umap
+[2017.07.20-23.29.37:185][924]MapCheck: New page: Map Check
+[2017.07.20-23.29.37:185][924]LightingResults: New page: Lighting Build
+[2017.07.20-23.29.37:212][924]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.07.20-23.29.37:224][924]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.07.20-23.29.37:325][924]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 100.059ms to complete.
+[2017.07.20-23.29.37:325][924]LogFileHelpers: Loading map 'Level1' took 0.159
+[2017.07.20-23.29.55:851][ 90]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/ThirdPersonJump_End.ThirdPersonJump_End
+[2017.07.20-23.29.55:975][ 90]LogMetaData: Removing '/Game/Character/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2017.07.20-23.29.55:975][ 90]LogMetaData: Removing '/Game/Character/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP:AnimGraph.AnimGraphNode_StateMachine_1.Default.AnimStateTransitionNode_4.Transition.AnimGraphNode_TransitionResult_26' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2017.07.20-23.29.55:975][ 90]LogMetaData: Removing '/Game/Character/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP:AnimGraph.AnimGraphNode_StateMachine_1.Default.AnimStateTransitionNode_6.Transition.AnimGraphNode_TransitionResult_37' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2017.07.20-23.29.55:975][ 90]LogMetaData: Removing '/Game/Character/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP:AnimGraph.AnimGraphNode_StateMachine_1.Default.AnimStateTransitionNode_2.Transition.AnimGraphNode_TransitionResult_15' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2017.07.20-23.29.55:975][ 90]LogMetaData: Removing '/Game/Character/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP:AnimGraph.AnimGraphNode_StateMachine_1.Default.AnimStateTransitionNode_8.Transition.AnimGraphNode_TransitionResult_48' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2017.07.20-23.29.55:975][ 90]LogMetaData: Removing '/Game/Character/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2017.07.20-23.29.55:975][ 90]LogMetaData: Removing '/Game/Character/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:BlueprintUpdateAnimation' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2017.07.20-23.29.55:975][ 90]LogMetaData: Removing '/Game/Character/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:IsInAir?' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2017.07.20-23.29.55:975][ 90]LogMetaData: Removing '/Game/Character/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:Speed' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2017.07.20-23.29.55:975][ 90]LogMetaData: Removing '/Game/Character/Animations/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C:Speed' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2017.07.20-23.29.55:975][ 90]LogMetaData: Removing '/Game/Character/Animations/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C:IsInAir?' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2017.07.20-23.29.55:975][ 90]LogMetaData: Removing '/Game/Character/Animations/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C:BlueprintUpdateAnimation' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2017.07.20-23.29.55:975][ 90]LogMetaData: Removing '/Game/Character/Animations/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2017.07.20-23.29.55:975][ 90]LogMetaData: Removing '/Game/Character/Animations/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2017.07.20-23.29.56:238][ 90]LogSavePackage: Save=14.35ms
+[2017.07.20-23.29.56:238][ 90]LogSavePackage: Moving 'D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Saved/ThirdPerson_IdleRun_2D6FF6BEC04F35BA6A3A29A1802030EBBE.tmp' to 'D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Content/Character/Animations/ThirdPerson_IdleRun_2D.uasset'
+[2017.07.20-23.29.56:239][ 90]LogSavePackage:Display: Finished SavePackage D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Content/Character/Animations/ThirdPerson_IdleRun_2D.uasset
+[2017.07.20-23.29.56:276][ 90]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Animations/ThirdPersonWalk" FILE="D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Content/Character/Animations/ThirdPersonWalk.uasset" SILENT=true
+[2017.07.20-23.29.56:290][ 90]LogSavePackage: Save=12.25ms
+[2017.07.20-23.29.56:290][ 90]LogSavePackage: Moving 'D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Saved/ThirdPersonWalkE3E47CD143155DC3DF28CEAAC76C0B17.tmp' to 'D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Content/Character/Animations/ThirdPersonWalk.uasset'
+[2017.07.20-23.29.56:291][ 90]LogSavePackage:Display: Finished SavePackage D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Content/Character/Animations/ThirdPersonWalk.uasset
+[2017.07.20-23.29.56:310][ 90]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Animations/ThirdPersonRun" FILE="D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Content/Character/Animations/ThirdPersonRun.uasset" SILENT=true
+[2017.07.20-23.29.56:323][ 90]LogSavePackage: Save=12.08ms
+[2017.07.20-23.29.56:323][ 90]LogSavePackage: Moving 'D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Saved/ThirdPersonRunD558D28945DEF3AE5B9053B6759DC9AC.tmp' to 'D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Content/Character/Animations/ThirdPersonRun.uasset'
+[2017.07.20-23.29.56:325][ 90]LogSavePackage:Display: Finished SavePackage D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Content/Character/Animations/ThirdPersonRun.uasset
+[2017.07.20-23.29.56:346][ 90]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Animations/ThirdPersonIdle" FILE="D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Content/Character/Animations/ThirdPersonIdle.uasset" SILENT=true
+[2017.07.20-23.29.56:361][ 90]LogSavePackage: Save=12.60ms
+[2017.07.20-23.29.56:361][ 90]LogSavePackage: Moving 'D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Saved/ThirdPersonIdleA0A715BC4C48245F3D9496AB5B904ACD.tmp' to 'D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Content/Character/Animations/ThirdPersonIdle.uasset'
+[2017.07.20-23.29.56:362][ 90]LogSavePackage:Display: Finished SavePackage D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Content/Character/Animations/ThirdPersonIdle.uasset
+[2017.07.20-23.29.56:403][ 90]LogSavePackage: Save=12.82ms
+[2017.07.20-23.29.56:403][ 90]LogSavePackage: Moving 'D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Saved/ThirdPersonJump_Start012303A140669A3A93445DAA6542B17E.tmp' to 'D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Content/Character/Animations/ThirdPersonJump_Start.uasset'
+[2017.07.20-23.29.56:405][ 90]LogSavePackage:Display: Finished SavePackage D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Content/Character/Animations/ThirdPersonJump_Start.uasset
+[2017.07.20-23.29.56:445][ 90]LogSavePackage: Save=13.96ms
+[2017.07.20-23.29.56:445][ 90]LogSavePackage: Moving 'D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Saved/ThirdPersonJump_LoopF81E4CFC410994E9D9C4F4841F33CC44.tmp' to 'D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Content/Character/Animations/ThirdPersonJump_Loop.uasset'
+[2017.07.20-23.29.56:447][ 90]LogSavePackage:Display: Finished SavePackage D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Content/Character/Animations/ThirdPersonJump_Loop.uasset
+[2017.07.20-23.29.56:498][ 90]LogSavePackage: Save=11.88ms
+[2017.07.20-23.29.56:499][ 90]LogSavePackage: Moving 'D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Saved/ThirdPerson_JumpE461585E4F6794A542C36FB5DCDB5858.tmp' to 'D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Content/Character/Animations/ThirdPerson_Jump.uasset'
+[2017.07.20-23.29.56:500][ 90]LogSavePackage:Display: Finished SavePackage D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Content/Character/Animations/ThirdPerson_Jump.uasset
+[2017.07.20-23.29.56:511][ 90]LogSavePackage: Save=2.10ms
+[2017.07.20-23.29.56:511][ 90]LogSavePackage: Moving 'D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Saved/UE4_Mannequin_Skeleton07A25F3B4E3766C87BEDD0B2B347F344.tmp' to 'D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Content/Character/Character/Mesh/UE4_Mannequin_Skeleton.uasset'
+[2017.07.20-23.29.56:513][ 90]LogSavePackage:Display: Finished SavePackage D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Content/Character/Character/Mesh/UE4_Mannequin_Skeleton.uasset
+[2017.07.20-23.29.56:589][ 90]LogSavePackage: Save=36.42ms
+[2017.07.20-23.29.56:589][ 90]LogSavePackage: Moving 'D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Saved/ThirdPerson_AnimBP54AA68C94C3C5C7A92EACF9EC0703C50.tmp' to 'D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Content/Character/Animations/ThirdPerson_AnimBP.uasset'
+[2017.07.20-23.29.56:591][ 90]LogSavePackage:Display: Finished SavePackage D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Content/Character/Animations/ThirdPerson_AnimBP.uasset
+[2017.07.20-23.29.56:621][ 90]LogSavePackage: Save=12.58ms
+[2017.07.20-23.29.56:621][ 90]LogSavePackage: Moving 'D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Saved/T_ML_Rubber_Blue_01_D245DCEE944CE87B42C04909F15F216B9.tmp' to 'D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Content/Character/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset'
+[2017.07.20-23.29.56:622][ 90]LogSavePackage:Display: Finished SavePackage D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Content/Character/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset
+[2017.07.20-23.29.56:671][ 90]LogSavePackage: Save=9.83ms
+[2017.07.20-23.29.56:671][ 90]LogSavePackage: Moving 'D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Saved/T_ML_Rubber_Blue_01_N4C9961A74E27ADFC8576A99060B78199.tmp' to 'D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Content/Character/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset'
+[2017.07.20-23.29.56:672][ 90]LogSavePackage:Display: Finished SavePackage D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Content/Character/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset
+[2017.07.20-23.29.56:684][ 90]LogMaterial: Missing cached shader map for material Material_0, compiling. 
+[2017.07.20-23.29.56:847][ 90]LogSavePackage: Save=13.46ms
+[2017.07.20-23.29.56:847][ 90]LogSavePackage: Moving 'D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Saved/ML_GlossyBlack_Latex_UE4DE0469E94C66CE99FEABF387C55DC5C3.tmp' to 'D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Content/Character/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset'
+[2017.07.20-23.29.56:848][ 90]LogSavePackage:Display: Finished SavePackage D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Content/Character/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset
+[2017.07.20-23.29.56:858][ 90]LogMaterial: Missing cached shader map for material Material_1, compiling. 
+[2017.07.20-23.29.56:942][ 90]LogSavePackage: Save=14.79ms
+[2017.07.20-23.29.56:942][ 90]LogSavePackage: Moving 'D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Saved/ML_Plastic_Shiny_BeigeB28A53D74DC8E78509CCF6974E3896E4.tmp' to 'D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Content/Character/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset'
+[2017.07.20-23.29.56:943][ 90]LogSavePackage:Display: Finished SavePackage D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Content/Character/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset
+[2017.07.20-23.29.56:970][ 90]LogSavePackage: Save=8.19ms
+[2017.07.20-23.29.56:970][ 90]LogSavePackage: Moving 'D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Saved/UE4_LOGO_CARD41A78DE54F8D0A37631604A57F136E7C.tmp' to 'D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Content/Character/Character/Textures/UE4_LOGO_CARD.uasset'
+[2017.07.20-23.29.56:971][ 90]LogSavePackage:Display: Finished SavePackage D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Content/Character/Character/Textures/UE4_LOGO_CARD.uasset
+[2017.07.20-23.29.56:980][ 90]LogMaterial: Missing cached shader map for material Material_2, compiling. 
+[2017.07.20-23.29.57:060][ 90]LogSavePackage: Save=13.50ms
+[2017.07.20-23.29.57:060][ 90]LogSavePackage: Moving 'D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Saved/ML_Plastic_Shiny_Beige_LOGO627550F64B5188D75DD974971311BA38.tmp' to 'D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Content/Character/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset'
+[2017.07.20-23.29.57:061][ 90]LogSavePackage:Display: Finished SavePackage D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Content/Character/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset
+[2017.07.20-23.29.57:091][ 90]LogSavePackage: Save=15.82ms
+[2017.07.20-23.29.57:091][ 90]LogSavePackage: Moving 'D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Saved/T_ML_Aluminum01724224884BA057080BC2878908BFFEE0.tmp' to 'D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Content/Character/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset'
+[2017.07.20-23.29.57:092][ 90]LogSavePackage:Display: Finished SavePackage D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Content/Character/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset
+[2017.07.20-23.29.57:118][ 90]LogSavePackage: Save=10.22ms
+[2017.07.20-23.29.57:118][ 90]LogSavePackage: Moving 'D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Saved/T_ML_Aluminum01_N63B67D9843525F13D1A1649F423094C9.tmp' to 'D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Content/Character/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset'
+[2017.07.20-23.29.57:119][ 90]LogSavePackage:Display: Finished SavePackage D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Content/Character/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset
+[2017.07.20-23.29.57:128][ 90]LogMaterial: Missing cached shader map for material Material_3, compiling. 
+[2017.07.20-23.29.57:207][ 90]LogSavePackage: Save=14.10ms
+[2017.07.20-23.29.57:207][ 90]LogSavePackage: Moving 'D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Saved/ML_SoftMetal_UE4017789434E8C64FD36A18CAF317C125D.tmp' to 'D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Content/Character/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset'
+[2017.07.20-23.29.57:209][ 90]LogSavePackage:Display: Finished SavePackage D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Content/Character/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset
+[2017.07.20-23.29.57:323][ 90]LogSavePackage: Save=99.47ms
+[2017.07.20-23.29.57:323][ 90]LogSavePackage: Moving 'D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Saved/UE4_Mannequin__normalsA34B12FD4ECEF464ECE4F1A9D39C13A4.tmp' to 'D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Content/Character/Character/Textures/UE4_Mannequin__normals.uasset'
+[2017.07.20-23.29.57:325][ 90]LogSavePackage:Display: Finished SavePackage D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Content/Character/Character/Textures/UE4_Mannequin__normals.uasset
+[2017.07.20-23.29.57:364][ 90]LogSavePackage: Save=17.51ms
+[2017.07.20-23.29.57:364][ 90]LogSavePackage: Moving 'D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Saved/UE4_Mannequin_MAT_MASKAF6388BDB40AE518290A5C385F8F62240.tmp' to 'D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Content/Character/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset'
+[2017.07.20-23.29.57:366][ 90]LogSavePackage:Display: Finished SavePackage D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Content/Character/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset
+[2017.07.20-23.29.57:428][ 90]LogSavePackage: Save=18.38ms
+[2017.07.20-23.29.57:428][ 90]LogSavePackage: Moving 'D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Saved/M_UE4Man_Body21BB56D648003954EA5848A61D94FA64.tmp' to 'D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Content/Character/Character/Materials/M_UE4Man_Body.uasset'
+[2017.07.20-23.29.57:429][ 90]LogSavePackage:Display: Finished SavePackage D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Content/Character/Character/Materials/M_UE4Man_Body.uasset
+[2017.07.20-23.29.57:459][ 90]LogSavePackage: Save=14.51ms
+[2017.07.20-23.29.57:459][ 90]LogSavePackage: Moving 'D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Saved/UE4Man_Logo_N98284D424394002595DAC98856DEA69D.tmp' to 'D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Content/Character/Character/Textures/UE4Man_Logo_N.uasset'
+[2017.07.20-23.29.57:460][ 90]LogSavePackage:Display: Finished SavePackage D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Content/Character/Character/Textures/UE4Man_Logo_N.uasset
+[2017.07.20-23.29.57:498][ 90]LogSavePackage: Save=10.94ms
+[2017.07.20-23.29.57:499][ 90]LogSavePackage: Moving 'D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Saved/M_UE4Man_ChestLogo90F2F4E04955C28ECDE30D9FEFDA9DB8.tmp' to 'D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Content/Character/Character/Materials/M_UE4Man_ChestLogo.uasset'
+[2017.07.20-23.29.57:500][ 90]LogSavePackage:Display: Finished SavePackage D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Content/Character/Character/Materials/M_UE4Man_ChestLogo.uasset
+[2017.07.20-23.29.57:517][ 90]LogSavePackage: Save=12.61ms
+[2017.07.20-23.29.57:517][ 90]LogSavePackage: Moving 'D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Saved/SK_Mannequin_PhysicsAsset5A071ED14138793C4693A69045E7E56A.tmp' to 'D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Content/Character/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset'
+[2017.07.20-23.29.57:518][ 90]LogSavePackage:Display: Finished SavePackage D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Content/Character/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset
+[2017.07.20-23.29.57:623][ 90]LogSavePackage: Save=59.99ms
+[2017.07.20-23.29.57:623][ 90]LogSavePackage: Moving 'D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Saved/SK_Mannequin1FACF9994C6D0B685B7AFDAE9D286477.tmp' to 'D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Content/Character/Character/Mesh/SK_Mannequin.uasset'
+[2017.07.20-23.29.57:625][ 90]LogSavePackage:Display: Finished SavePackage D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Content/Character/Character/Mesh/SK_Mannequin.uasset
+[2017.07.20-23.29.57:670][ 90]LogSavePackage: Save=19.43ms
+[2017.07.20-23.29.57:670][ 90]LogSavePackage: Moving 'D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Saved/ThirdPersonJump_End8A5F30464731AB6AB3D0ADB64107E01D.tmp' to 'D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Content/Character/Animations/ThirdPersonJump_End.uasset'
+[2017.07.20-23.29.57:672][ 90]LogSavePackage:Display: Finished SavePackage D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Content/Character/Animations/ThirdPersonJump_End.uasset
+[2017.07.20-23.29.59:627][ 90]LogSavePackage: Save=78.48ms
+[2017.07.20-23.29.59:627][ 90]LogSavePackage: Moving 'D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Saved/ThirdPersonCharacterC2E042CD4FC23D6EF917698811688DDB.tmp' to 'D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2017.07.20-23.29.59:628][ 90]LogSavePackage:Display: Finished SavePackage D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2017.07.20-23.29.59:703][ 90]LogSavePackage: Save=68.82ms
+[2017.07.20-23.29.59:703][ 90]LogSavePackage: Moving 'D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Saved/ThirdPersonCharacter8C20AF8F41757FAE78EBD88362132D96.tmp' to 'D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2017.07.20-23.29.59:704][ 90]LogSavePackage:Display: Finished SavePackage D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2017.07.20-23.30.47:249][865]LogSourceControl:Error: 'D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/' is not part of a Git repository
+[2017.07.20-23.31.36:302][478]LogSourceControl:Error: 'D:/Users/joseph.new6687/Documents/Unreal Projects/MyProject/' is not part of a Git repository
+[2017.07.20-23.31.51:516][269]SourceControl:Error: Error Failed to enable Git source control. You need to initialize the project as a Git repository first.
+[2017.07.20-23.32.23:047][348]SourceControl:Error: Error Failed to enable Git source control. You need to initialize the project as a Git repository first.
+[2017.07.20-23.33.43:182][479]SourceControl: Info Source control is disabled
